@@ -1,0 +1,7 @@
+.textLength {
+  width: 454px;
+}
+
+.MuiGrid-spacing-xs-6 > .MuiGrid-item {
+  padding: 8px !important;
+}

@@ -1,0 +1,28 @@
+.visibleStyle {
+  visibility:visible;
+}
+.hiddenStyle {
+  display:none;
+}
+.memberBorderStyle{
+  border-color:#3f51b5;;
+  border-style:solid;
+  padding: 20px;
+  width: 442px;
+  margin:5px;
+ }
+ .subscribedBorderStyle{
+  border-color:#3f51b5;
+  border-style:solid;
+  padding: 20px;
+  width: 355px;;
+  margin:5px;
+ }
+
+ .addSubscribionBorderStyle{
+  border-color:red;
+  border-style:solid;
+  padding: 20px;
+  width: 307px;
+  margin:5px;
+ }

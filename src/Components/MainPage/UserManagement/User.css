@@ -1,0 +1,13 @@
+.visibleStyle {
+  visibility:visible;
+}
+.hiddenStyle {
+  display:none;
+}
+.userBorderStyle{
+  border-color:black;
+  border-style:solid;
+  padding: 20px;
+  width: 450px;
+  margin:5px;
+ }
