@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
 UserName admin:admin@yahoo.com password:ytghjuyt<br/>
 UserName non admin:test@yahoo.com password:ytghjuyt<br/>
 
